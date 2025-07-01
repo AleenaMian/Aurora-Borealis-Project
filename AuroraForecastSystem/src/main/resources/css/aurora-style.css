@@ -1,0 +1,7 @@
+.aurora-background {
+    -fx-background-color: linear-gradient(from 0% 0% to 100% 100%,
+        #d48db4 0%,     /* deeper pastel pink */
+        #7ecad2 33%,    /* dusk aqua */
+        #8fc79a 66%,    /* muted mint */
+        #e5bfc5 100%);  /* blush beige */
+}

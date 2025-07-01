@@ -1,0 +1,7 @@
+aurora\LoginController.class
+aurora\DashboardController.class
+aurora\RegisterController.class
+Main.class
+aurora\Database.class
+aurora\HistoryController.class
+aurora\ForecastHistory.class
